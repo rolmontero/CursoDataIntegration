@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_3uEGMR6tEfC2Lp0ZKifwBQ" label="CursoDataIntegration" description="Proyecto para el desarrollo del curso de Qlik Talend Data Integration los días 22 y 23 de abril 2025." language="java" technicalLabel="CURSODATAINTEGRATION" author="_3uEGMh6tEfC2Lp0ZKifwBQ" productVersion="Talend Cloud Data Fabric-8.0.1.20250319_1318-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/rolmontero/CursoDataIntegration.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_3uoG4B6tEfC2Lp0ZKifwBQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_3uEGMh6tEfC2Lp0ZKifwBQ" login="rolando.montero@upsociativeconsultores_nfr" firstName="Rolando" lastName="Montero" type="DQ"/>
+  <TalendProperties:User xmi:id="_4qNlYB6tEfC2Lp0ZKifwBQ" login="rol.montero@upsociativeconsultores_nfr" firstName="Rolando" lastName="Outlook" type="DQ"/>
+</xmi:XMI>
