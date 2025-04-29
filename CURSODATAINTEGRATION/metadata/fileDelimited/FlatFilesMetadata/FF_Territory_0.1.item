@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_bdhtACU1EfCMuegEiTWr6Q" name="FF_Territory" dataPackage="_bdhtASU1EfCMuegEiTWr6Q" Server="Localhost 127.0.0.1" FilePath="C:/Users/RolandoMontero/Documents/Material/Input/territory.csv" Format="WINDOWS" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_bdhtASU1EfCMuegEiTWr6Q" name="default" dataManager="_bdhtACU1EfCMuegEiTWr6Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_bdhtAiU1EfCMuegEiTWr6Q" id="_QX74oCU1EfCMuegEiTWr6Q" label="SCH_Territory_Metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_bdhtAyU1EfCMuegEiTWr6Q" label="territoryCode" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_bdhtBCU1EfCMuegEiTWr6Q" label="territoryName" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_bdhtBSU1EfCMuegEiTWr6Q" label="region" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_bdhtBiU1EfCMuegEiTWr6Q" label="manager" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_bdhtByU1EfCMuegEiTWr6Q" label="currency" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

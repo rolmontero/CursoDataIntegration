@@ -1,0 +1,40 @@
+[ {
+  "baseItem" : {
+    "id" : "_WIxysCUxEfCMuegEiTWr6Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_81-m0CUyEfCMuegEiTWr6Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PcQ6kCU1EfCMuegEiTWr6Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_bdhF8CU1EfCMuegEiTWr6Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_sm8EACVAEfCMuegEiTWr6Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_81-m0CUyEfCMuegEiTWr6Q - SCH_Employee_Metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_PcQ6kCU1EfCMuegEiTWr6Q - SCH_Office_Metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bdhF8CU1EfCMuegEiTWr6Q - SCH_Territory_Metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_bdhF8CU1EfCMuegEiTWr6Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
